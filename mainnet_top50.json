@@ -1,14 +1,16 @@
 [
    {
+      "address":"0x0000000000000000000000000000000000000000",
+      "name":"Ethereum",
+      "symbol":"ETH",
+      "default":true
+   },
+   {
       "address":"0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "name":"Tether USD",
       "decimals":"6",
-      "symbol":"USDT"
-   },
-   {
-      "address":"0x0000000000000000000000000000000000000000",
-      "name":"Ethereum",
-      "symbol":"ETH"
+      "symbol":"USDT",
+      "default":true
    },
    {
       "address":"0x514910771AF9Ca656af840dff83E8264EcF986CA",
