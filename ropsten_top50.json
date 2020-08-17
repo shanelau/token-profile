@@ -3,6 +3,7 @@
       "address":"0x0000000000000000000000000000000000000000",
       "name":"Ethereum",
       "symbol":"ETH",
+      "decimals":18,
       "logo":"http://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/img/cw/eth.png",
       "default":true,
       "canremove":false
