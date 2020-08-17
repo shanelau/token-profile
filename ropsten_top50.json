@@ -3,28 +3,33 @@
       "address":"0x0000000000000000000000000000000000000000",
       "name":"Ethereum",
       "symbol":"ETH",
-      "logo":"http://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/img/cw/eth.png"
+      "logo":"http://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/img/cw/eth.png",
+      "default":true,
+      "canremove":false
    },
    {
       "name":"Status",
       "symbol":"SNT",
       "decimals":18,
       "logo":"http://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/img/cw/SNT.png",
-      "address":"0xbf5d8683b9be6c43fca607eb2a6f2626a18837a6"
+      "address":"0xbf5d8683b9be6c43fca607eb2a6f2626a18837a6",
+      "default":true
    },
    {
       "name":"DAI",
       "symbol":"DAI",
       "decimals":18,
       "logo":"http://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/img/cw/MCDDai_32.png",
-      "address":"0xad6d458402f60fd3bd25163575031acdce07538d"
+      "address":"0xad6d458402f60fd3bd25163575031acdce07538d",
+      "default":true
    },
    {
       "name":"KyberNetwork",
       "symbol":"KNC",
       "decimals":18,
       "logo":"http://sparkpool-public-files.oss-cn-hangzhou.aliyuncs.com/img/cw/knc.png",
-      "address":"0x7b2810576aa1cce68f2b118cef1f36467c648f92"
+      "address":"0x7b2810576aa1cce68f2b118cef1f36467c648f92",
+      "default":true
    },
    {
       "address":"0xdAC17F958D2ee523a2206206994597C13D831ec7",
