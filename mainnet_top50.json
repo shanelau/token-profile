@@ -2,6 +2,7 @@
    {
       "address":"0x0000000000000000000000000000000000000000",
       "name":"Ethereum",
+      "decimals":"18",
       "symbol":"ETH",
       "default":true
    },
